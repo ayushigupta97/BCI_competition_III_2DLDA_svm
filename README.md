@@ -26,3 +26,11 @@ Dataset IVa from BCI Competition III is used http://www.bbci.de/competition/iii
     1. Five Subjects **{aa, al, av, aw, ay}**
     2. 118 channels
     3. Two motor imagery **Right hand, Foot**
+    4. 280 trials, 140 for each task.
+    5. Downsampling Frequency 100 Hz
+4. **Libraries Used**
+    1. numpy
+    2. scipy
+    3. itertools
+    4. sklearn
+    5. matplotlib
