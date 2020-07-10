@@ -22,6 +22,7 @@ Dataset IVa from BCI Competition III is used http://www.bbci.de/competition/iii
 ## **Installation**
 1. **Implementation** - Project implemented in python 2.7
 2. **IDE** - spyder (Anaconda Python Distribution)
-3. **Data-set Description** - -Five Subjects **{aa, al, av, aw, ay}**
+3. **Data-set Description**  
+                              -Five Subjects **{aa, al, av, aw, ay}**
                               -118 channels
                               -Two motor imagery **Right hand, Foot**
