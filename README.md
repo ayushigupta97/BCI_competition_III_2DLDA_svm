@@ -44,7 +44,4 @@ Dataset IVa from BCI Competition III is used http://www.bbci.de/competition/iii
     4. Classification Algorithm
         1. SVM
         2. LDA
-  ## **Results**
-  ### **Confusion Matrix**
-  ![Alt text](D:/ceeri/images/lda_al.jpg?raw=true "Title")
     
