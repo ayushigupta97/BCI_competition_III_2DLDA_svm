@@ -34,3 +34,14 @@ Dataset IVa from BCI Competition III is used http://www.bbci.de/competition/iii
     3. itertools
     4. sklearn
     5. matplotlib
+ 5. Two python files namely 2DLDA_svm.py and functions.py made, 2DLDA_svm.py does the entire procedure and functions.py contains all the functions used.
+ 6. **Steps Involved**
+    1. Frequency Range
+    2. Feature Extraction
+        1. 2D-LDA
+    3. Feature Selection 
+        1. Chi-square Test
+    4. Classification Algorithm
+        1. SVM
+        2. LDA
+    
