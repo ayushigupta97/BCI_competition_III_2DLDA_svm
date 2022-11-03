@@ -1,0 +1,16 @@
+ for j in range(len(dd)):
+            t=[]
+            for k in range(len(X)):
+                t.append(X[k][j])
+            a=np.array(t)
+            X1.append(a)
+
+Is there something wrong with this code？？？
+ for j in range(dd):
+            t=[]
+            for k in range(len(X)):
+                t.append(X[k][j])
+            a=np.array(t)
+            X1.append(a)
+
+is that right？
